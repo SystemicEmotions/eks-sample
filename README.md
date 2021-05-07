@@ -1,2 +1,1 @@
-# eks-sample
-eksworkshop-gitops-example
+# eks-example
